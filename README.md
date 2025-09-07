@@ -108,14 +108,15 @@ graph TD
     E --> F[Practice with DataSets]
     F --> G[Ready for ML! 🎉]
     
-    style A fill:#ff9999
-    style B fill:#66b3ff
-    style C fill:#99ff99
-    style D fill:#ffcc99
-    style E fill:#ff99cc
-    style F fill:#c2c2f0
-    style G fill:#ffb3e6
+    style A fill:#e74c3c,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#3498db,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#2ecc71,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#f39c12,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#9b59b6,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#e67e22,stroke:#333,stroke-width:2px,color:#fff
 ```
+
 
 ## 🎓 What You'll Learn
 
